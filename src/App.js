@@ -68,7 +68,7 @@ class App extends React.Component {
 
     return (
       <>
-        <h1>Doguinhos</h1>
+        <h1>Doguinhos......</h1>
         {isLoading
           ? <p>Loading...</p>
           : div}
